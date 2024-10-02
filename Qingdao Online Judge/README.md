@@ -10,6 +10,6 @@ https://qduoj.com
 ```
 ## Build Docker Container
 ```
-    wget https://raw.githubusercontent.com/VietThienTran/DeploymentTools/main/QingdaoOnlineJudge/docker-compose.yml
+    wget https://raw.githubusercontent.com/tuannguyenvku/DeploymentTools/main/Qingdao%20Online%20Judge/docker-compose.yml
     sudo docker-compose up -d
 ``` 
